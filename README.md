@@ -1,9 +1,18 @@
-Constituents:
 - Healthcare and Social Assistance 
-- Educational Services
-- Utilities (Electricity, Gas, and Water Supply)
 - Construction
-- Professional, Scientific, and Technical Services
 - Information Technology Services
 - Waste Management Services
 - Legal Services
+- Agriculture, forestry and fishing, quarrying
+- Electricity, gas, steam and air conditioning supply
+- Water supply; sewerage, waste management and remediation activities Construction
+- Wholesale and retail trade; repair of motor vehicles and motorcycles
+- Accommodation and food service activities
+- Professional, scientific and technical activities
+- Administrative and support service activities
+- Public administration and defence; compulsory social security
+- Education
+- Human health and social work activities
+- Arts, entertainment and recreation
+- Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+- Activities of extraterritorial organizations and bodies
